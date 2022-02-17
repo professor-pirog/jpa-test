@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: role_permission.sql
+      relativeToChangelogFile: true

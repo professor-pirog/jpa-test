@@ -1,0 +1,12 @@
+POST http://localhost:8080/role-permissions
+Content-Type: application/json
+
+{
+  "id": "4",
+  "read": true,
+  "write": true,
+  "delete": true,
+  "target": "Товары"
+}
+
+###
